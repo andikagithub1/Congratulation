@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    min-height: 100vh; /* Agar konten berada di tengah halaman */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Sisanya sama seperti sebelumnya, dengan penyesuaian warna */
+
+.envelope {
+    background-color: #e6ccff; /* Warna ungu muda */
+    border: 2px solid #9966cc;
+}
+
+.flap {
+    background-color: #e6ccff;
+    border: 2px solid #9966cc;
+}
